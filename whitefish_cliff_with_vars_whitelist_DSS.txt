@@ -1,0 +1,17 @@
+sample	ecotype	lake	file	out		
+CD17	dwarf	cliff	06_fully_filtered_bedGraphs/CD17_fully_filtered_6col.bedGraph.gz	07_DSS_input/CD17.txt.gz		
+CD18	dwarf	cliff	06_fully_filtered_bedGraphs/CD18_fully_filtered_6col.bedGraph.gz	07_DSS_input/CD18.txt.gz		
+CD19	dwarf	cliff	06_fully_filtered_bedGraphs/CD19_fully_filtered_6col.bedGraph.gz	07_DSS_input/CD19.txt.gz		
+CD20	dwarf	cliff	06_fully_filtered_bedGraphs/CD20_fully_filtered_6col.bedGraph.gz	07_DSS_input/CD20.txt.gz		
+CD21	dwarf	cliff	06_fully_filtered_bedGraphs/CD21_fully_filtered_6col.bedGraph.gz	07_DSS_input/CD21.txt.gz		
+CD22	dwarf	cliff	06_fully_filtered_bedGraphs/CD22_fully_filtered_6col.bedGraph.gz	07_DSS_input/CD22.txt.gz		
+CD28	dwarf	cliff	06_fully_filtered_bedGraphs/CD28_fully_filtered_6col.bedGraph.gz	07_DSS_input/CD28.txt.gz		
+CD32	dwarf	cliff	06_fully_filtered_bedGraphs/CD32_fully_filtered_6col.bedGraph.gz	07_DSS_input/CD32.txt.gz		
+CN10	normal	cliff	06_fully_filtered_bedGraphs/CN10_fully_filtered_6col.bedGraph.gz	07_DSS_input/CN10.txt.gz		
+CN11	normal	cliff	06_fully_filtered_bedGraphs/CN11_fully_filtered_6col.bedGraph.gz	07_DSS_input/CN11.txt.gz		
+CN12	normal	cliff	06_fully_filtered_bedGraphs/CN12_fully_filtered_6col.bedGraph.gz	07_DSS_input/CN12.txt.gz		
+CN14	normal	cliff	06_fully_filtered_bedGraphs/CN14_fully_filtered_6col.bedGraph.gz	07_DSS_input/CN14.txt.gz		
+CN15	normal	cliff	06_fully_filtered_bedGraphs/CN15_fully_filtered_6col.bedGraph.gz	07_DSS_input/CN15.txt.gz		
+CN5	normal	cliff	06_fully_filtered_bedGraphs/CN5_fully_filtered_6col.bedGraph.gz	07_DSS_input/CN5.txt.gz		
+CN6	normal	cliff	06_fully_filtered_bedGraphs/CN6_fully_filtered_6col.bedGraph.gz	07_DSS_input/CN6.txt.gz		
+ID9	normal	cliff	06_fully_filtered_bedGraphs/ID9_fully_filtered_6col.bedGraph.gz	07_DSS_input/ID9.txt.gz		
