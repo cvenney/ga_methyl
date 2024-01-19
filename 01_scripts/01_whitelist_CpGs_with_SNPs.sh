@@ -6,7 +6,7 @@
 #INPUT="/project/lbernatchez/users/clven7/whitefish/am/methylutil-master_whitelist/03_raw_bedGraphs"
 
 # with scaffolds
-INPUT="/project/lbernatchez/users/clven7/whitefish/am/bwa-meth_pipeline/07_methyl_dackel_SNPsincluded2"
+INPUT="/project/lbernatchez/users/clven7/whitefish/am/bwa-meth_pipeline/07_methyl_dackel_maxVariantFracworking"
 WHITELIST="/project/lbernatchez/users/camer78/coregonus/Cliff_ANGSD/03_saf_maf_gl_all/CpG_filtering"
 OUTPUT="/project/lbernatchez/users/clven7/whitefish/am/ga_methyl_cliff/04_whitelisted_bedGraphs"
 
